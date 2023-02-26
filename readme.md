@@ -1,17 +1,17 @@
-# Cosmowav Music Disc Trailer
+# Cosmowave Music Disc Trailer
 
 ![](img/ms-cosmowave.png)
 
 "Cosmowave Trailer" is the announce for our incoming musicdisc named "Cosmowave" (clever, eh ? =), to come in summmer 2000.<br>
-A trip-hop, concept disk with tracked works from Willbe & Chaosnet and artwork from Splif.
+A trip-hop, concept disk with tracked works from **Willbe** & **Chaosnet** and artwork from **Splif**.
 
 **To download the production:** https://www.pouet.net/prod.php?which=27
 
 ## Overview
 
 In july 2000, I helped the people of the _demoscene_ group `Orion`. During the 48 hours of the VIP2 demoparty, we worked on a small demo to announce the release of a music compilation. As of 2023, this release, `Cosmowav Music Disc` is still to come.<br>
-The demo runs on Windows32 an relies on DirectX. It might need a legacy emulation layer to run a more recent OS :blush:
-In order to document this time, I have decided to upload the production files that resulted in this production.
+The demo runs on Windows32 an relies on DirectX. It might need a legacy emulation layer to run a more recent OS :blush:<br>
+In order to document this period, I have decided to upload the production files that resulted in this production.
 
 You will find the following kind of files: :floppy_disk:
 * `.LWO`, Lightwave 3D files, mostly the original 3D models
@@ -23,7 +23,7 @@ You will find the following kind of files: :floppy_disk:
 
 We worked in collaboration, on the graphics sides, blending 2D and 3D artworks: 
 * Morgan `Splif` Thomas (main concept, 2D main concept art)
-* François `Astrofra` Gutherz (3D scene, textures, export)
+* François `Fra` Gutherz (3D scene, textures, export)
 
 ## Verbatim of the .nfo file
 
