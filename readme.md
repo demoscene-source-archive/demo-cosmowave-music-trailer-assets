@@ -18,6 +18,7 @@ You will find the following kind of files: :floppy_disk:
 * `.MAX`, 3DSMax files, scenes, vertex color baking (if any), animations
 * `.3DS`, 3DStudio legacy files, required by the Orion 3D engine
 * `.PNG`, `.PSD`, texture files
+* `.AUR`, TVPaint files (was called _Aura_ at that time)
 
 ## Artists
 
