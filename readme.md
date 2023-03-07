@@ -9,9 +9,9 @@ A trip-hop, concept disk with tracked works from **Willbe** & **Chaosnet** and a
 
 ## Overview
 
-In july 2000, I helped the people of the _demoscene_ group `Orion`. During the 48 hours of the VIP2 demoparty, we worked on a small demo to announce the release of a music compilation. As of 2023, this release, `Cosmowav Music Disc` is still to come.<br>
+In july 2000, @astrofra helped the people of the _demoscene_ group `Orion`. During the 48 hours of the VIP2 demoparty, they worked on a small demo to announce the release of a music compilation. As of 2023, this release, `Cosmowav Music Disc` is still to come.<br>
 The demo runs on Windows32 an relies on DirectX. It might need a legacy emulation layer to run a more recent OS :blush:<br>
-In order to document this period, I have decided to upload the production files that resulted in this production.
+In order to document this period, for preservation purpose, here are the 3D & 2D art files that resulted in this production.
 
 You will find the following kind of files: :floppy_disk:
 * `.LWO`, Lightwave 3D files, mostly the original 3D models
